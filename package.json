@@ -1,0 +1,10 @@
+{
+    "name": "WaitingRoomCreation",
+    "main": "wr.js",
+    "dependencies": {
+        "express": "*",
+        "formidable":"*",
+        "quickthumb": "*",
+        "fs-extra": "*"
+    }
+}
